@@ -1,0 +1,14 @@
+Changelog for TinyMCE4-typograf Plugin
+------------------------------------------------
+
+Version: 0.0.2-beta
+Date: 8 February 2020
+==============
+- Updated typograf script to v6.11.0 (2020 year)
+------------------------------------------------
+
+Version: 0.0.1-beta
+Date: Not remember when it was :/
+==============
+- Fork from Pathologic/TinyMCE4-Typograf
+------------------------------------------------
