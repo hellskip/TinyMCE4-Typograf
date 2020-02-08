@@ -1,6 +1,6 @@
 # TinyMCE4-Typograf
 
-Скрипт типографики от [Дениса Селезнева](github.com/typograf/typograf).
+Скрипт типографики от [Дениса Селезнева](https://github.com/typograf/typograf).
 
 Скрипт типографа размещен в папке с плагином и подгружается асинхронно средствами редактора 
 https://www.tinymce.com/docs/api/class/tinymce.dom.scriptloader/. Вы же можете загружать скрипт 
